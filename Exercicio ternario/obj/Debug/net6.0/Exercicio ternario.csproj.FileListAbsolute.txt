@@ -1,0 +1,15 @@
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Exercicio ternario\bin\Debug\net6.0\Exercicio ternario.exe
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Exercicio ternario\bin\Debug\net6.0\Exercicio ternario.deps.json
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Exercicio ternario\bin\Debug\net6.0\Exercicio ternario.runtimeconfig.json
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Exercicio ternario\bin\Debug\net6.0\Exercicio ternario.dll
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Exercicio ternario\bin\Debug\net6.0\Exercicio ternario.pdb
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Exercicio ternario\obj\Debug\net6.0\Exercicio ternario.csproj.AssemblyReference.cache
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Exercicio ternario\obj\Debug\net6.0\Exercicio ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Exercicio ternario\obj\Debug\net6.0\Exercicio ternario.AssemblyInfoInputs.cache
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Exercicio ternario\obj\Debug\net6.0\Exercicio ternario.AssemblyInfo.cs
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Exercicio ternario\obj\Debug\net6.0\Exercicio ternario.csproj.CoreCompileInputs.cache
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Exercicio ternario\obj\Debug\net6.0\Exercicio ternario.dll
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Exercicio ternario\obj\Debug\net6.0\refint\Exercicio ternario.dll
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Exercicio ternario\obj\Debug\net6.0\Exercicio ternario.pdb
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Exercicio ternario\obj\Debug\net6.0\Exercicio ternario.genruntimeconfig.cache
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Exercicio ternario\obj\Debug\net6.0\ref\Exercicio ternario.dll

@@ -1,0 +1,15 @@
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Desafiados Operadores Logicos\bin\Debug\net6.0\Desafiados Operadores Logicos.exe
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Desafiados Operadores Logicos\bin\Debug\net6.0\Desafiados Operadores Logicos.deps.json
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Desafiados Operadores Logicos\bin\Debug\net6.0\Desafiados Operadores Logicos.runtimeconfig.json
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Desafiados Operadores Logicos\bin\Debug\net6.0\Desafiados Operadores Logicos.dll
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Desafiados Operadores Logicos\bin\Debug\net6.0\Desafiados Operadores Logicos.pdb
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Desafiados Operadores Logicos\obj\Debug\net6.0\Desafiados Operadores Logicos.csproj.AssemblyReference.cache
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Desafiados Operadores Logicos\obj\Debug\net6.0\Desafiados Operadores Logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Desafiados Operadores Logicos\obj\Debug\net6.0\Desafiados Operadores Logicos.AssemblyInfoInputs.cache
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Desafiados Operadores Logicos\obj\Debug\net6.0\Desafiados Operadores Logicos.AssemblyInfo.cs
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Desafiados Operadores Logicos\obj\Debug\net6.0\Desafiados Operadores Logicos.csproj.CoreCompileInputs.cache
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Desafiados Operadores Logicos\obj\Debug\net6.0\Desafiados Operadores Logicos.dll
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Desafiados Operadores Logicos\obj\Debug\net6.0\refint\Desafiados Operadores Logicos.dll
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Desafiados Operadores Logicos\obj\Debug\net6.0\Desafiados Operadores Logicos.pdb
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Desafiados Operadores Logicos\obj\Debug\net6.0\Desafiados Operadores Logicos.genruntimeconfig.cache
+C:\Users\joao.caires\Desktop\Estudos\C#\Desafiados Operadores Logicos\Desafiados Operadores Logicos\obj\Debug\net6.0\ref\Desafiados Operadores Logicos.dll
